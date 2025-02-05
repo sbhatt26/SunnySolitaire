@@ -1,0 +1,22 @@
+{
+  "url": "https://sunnysolitaire.com",
+  "api_version": "/v1",
+  "mongodb": "mongodb://localhost:27017/bhattsa1",
+  "port": 8080,
+  "github": {
+    "clientID": "Ov23liHpi6WOmexGTryR",
+    "clientSecret": "2f5a845465f05759b64b9694abba9eb6f8d17064",
+    "callbackURL": "https://sunnysolitaire.com/v1/auth/github/callback"
+  },
+  "environments": {
+    "test": {
+      "mongodb": "mongodb://localhost:27017/testing",
+      "port": 8081
+    },
+    "ci": {
+      "mongodb": "mongodb://127.0.0.1:27017/testing"
+    }
+  }
+}
+
+
