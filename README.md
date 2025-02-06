@@ -68,3 +68,7 @@ A full-stack **Klondike Solitaire** game designed and developed using **React**,
 ## Conclusion
 
 This Klondike Solitaire game application showcases a robust architecture, incorporating modern web technologies and optimization techniques for a seamless, engaging gaming experience. With features like real-time move validation, secure authentication, and optimized performance, this game is designed to deliver a top-tier user experience across all devices.
+
+## License
+
+This project is licensed under the MIT License.
